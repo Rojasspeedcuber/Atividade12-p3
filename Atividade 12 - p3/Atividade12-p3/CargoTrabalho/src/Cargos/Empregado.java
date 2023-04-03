@@ -13,7 +13,6 @@ public class Empregado {
 
     public double vencimento(double salario) {
         return salario;
-        // método vencimento(salário)
     }
     
 }

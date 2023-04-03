@@ -11,7 +11,7 @@ public class Assalariado extends Empregado {
 
     @Override
     public double vencimento(double salario) {
-        return super.vencimento(salario);
+        return super.vencimento(this.salario);
     }
 
     
